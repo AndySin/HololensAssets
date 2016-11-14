@@ -12,11 +12,11 @@ To add an image, add an image to the image subfolder and add the corresponding r
 
 If adding more subfolders in the future, be sure to follow the pattern:
 
-#name
+//#name
 url1
 url2
 url3
 
-#name2
+//#name2
 url1
 url2
